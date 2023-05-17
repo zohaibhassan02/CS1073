@@ -1,0 +1,75 @@
+
+*** Test case #1: Create a ResidentMember object & test accessors
+Name:     Maria Lopez
+Unit #:   163
+Phone:    555-1234
+Member #: 500000
+Correct result: Maria has zero entertainment items.
+
+*** Test case #2: Create a ShortTermResidentMember object & test accessors
+Name:     Tommy MacDonald
+Unit #:   306
+Phone:    555-8642
+Member #: 500001
+Departs:  Apr. 26, 2023
+Correct result: Tommy has zero entertainment items.
+
+*** Test case #3: Automatically generate a member number
+Correct result: 500002 is the correct member number.
+
+*** Test case #4: Create an EntertainmentItem object & test accessors
+Description:        Uno - Card Game
+Original Price:     $12.00
+Benefactor Donated: true
+
+*** Test case #5: Change phone number for both resident types
+Correct result: Maria's phone number successfully changed.
+Correct result: Tommy's phone number successfully changed.
+
+*** Test case #6: Sign out one EntertainmentItem
+Correct result: Maria signed out an item successfully.
+Correct result: Maria has one entertainment item.
+
+*** Test case #7: Sign out multiple EntertainmentItems
+Correct result: Maria signed out two more items successfully.
+Correct result: Maria has three entertainment items.
+
+*** Test case #8: Intentionally exceed the sign out limit
+Correct result: Maria was prevented from signing out more than 7 entertainment items.
+
+*** Test case #9: A short-term resident tries to sign out items
+Correct result: Tommy was prevented from signing out a benefactor-donated item.
+Correct result: Tommy was able to sign out a non-benefactor-donated item.
+
+*** Test case #10: Returning the only item that was signed out
+Correct result: Tommy's item was successfully returned.
+Correct result: Tommy's list length changed appropriately.
+
+*** Test case #11: Returning an item that was not signed out
+Correct result: Unsuccessful attempt to return an item that was not signed out.
+
+*** Test case #12: Returning the first item that was signed out
+Correct result: Maria's first item was successfully returned.
+Correct result: Maria's list length changed appropriately.
+
+Confirm return: Uno should be absent from the following list:
+Connect 4 - Board Game
+Skip-Bo - Card Game
+Harmonica - Musical Instrument
+Scrabble - Board Game
+Codenames - Card Game
+Ukulele - Musical Instrument
+
+*** Test case #13: Returning a mid-list item
+Correct result: Skip-Bo was successfully returned.
+Correct result: Maria's list length changed appropriately.
+
+Confirm return: Skip-Bo should be absent from the following list:
+Connect 4 - Board Game
+Harmonica - Musical Instrument
+Scrabble - Board Game
+Codenames - Card Game
+Ukulele - Musical Instrument
+
+************* End of Test Cases ***************
+

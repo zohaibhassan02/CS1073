@@ -1,0 +1,24 @@
+rollsArrayA: 2, 5, 2, 3, 5, 6
+longest increasing sequence (should be 4): 4
+
+rollsArrayB: 2, 3, 1, 6, 5, 1, 2, 4, 5, 6, 2, 3, 6
+longest increasing sequence (should be 5): 5
+
+rollsArrayC: 6, 2, 4, 3, 1, 2, 3, 3, 5, 2, 4, 4, 5, 5
+longest increasing sequence (should be 3): 3
+
+rollsArrayD: 6, 5, 5, 4, 3, 3, 3, 2, 1
+longest increasing sequence (should be 1): 1
+
+rollsArrayE: array with length of 0 (no elements)
+longest increasing sequence (should be 0): 0
+
+Searching for target total in dice roll pairs:
+3 from rollsArrayA (should be false): false
+4 from rollsArrayA (should be true): true
+5 from rollsArrayA (should be true): true
+6 from rollsArrayA (should be false): false
+2 from rollsArrayC (should be false): false
+7 from rollsArrayC (should be true): true
+12 from rollsArrayC (should be false): false
+7 from rollsArrayE (should be false): false

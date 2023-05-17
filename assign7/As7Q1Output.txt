@@ -1,0 +1,14 @@
+arr1, Down direction (should be true): true
+arr1, Left direction (should be true): true
+
+arr2, Down direction (should be true): true
+arr2, Left direction (should be true): true
+
+arr3, Down direction (should be true): true
+arr3, Left direction (should be true): true
+
+arr4, Down direction (should be false): false
+arr4, Left direction (should be false): false
+
+arr5, Down direction (should be false): false
+arr5, Left direction (should be false): false

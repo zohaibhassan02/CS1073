@@ -1,0 +1,8 @@
+The triangle t1 is an equilateral triangle.
+
+The triangle t1 is not a right-angle triangle.
+
+The triangle t2 is not an equilateral triangle.
+
+The triangle t2 is a right-angle triangle.
+
