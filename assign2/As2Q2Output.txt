@@ -1,0 +1,24 @@
+Badge holder 1:
+Name: Ben Landry
+Badge number: 12341234
+Total charges: 15.5
+Amount donated: 2.79
+
+Badge holder 2:
+Name: Mario Lopez
+Badge number: 2468135
+Total charges: 13.75
+Amount donated: 1.65
+
+Badge holder 3:
+Name: Karl Wagner
+Badge number: 3451016
+Total charges: 12.25
+Amount donated: 2.45
+
+Badge holder 4:
+Name: Lori Evans
+Badge number: 5798642
+Total charges: 25.0
+Amount donated: 5.0
+

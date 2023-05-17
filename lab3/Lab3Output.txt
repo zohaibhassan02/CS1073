@@ -1,0 +1,15 @@
+Mail Label 1: 
+Anna Marie Sullivan
+Chickadee Lodge, bed 7
+Total weekly fees owing: 434.54999999999995
+
+Mail Label 2: 
+Porter Smith
+Wolf Lodge, bed 9
+Total weekly fees owing: 764.88
+
+Mail Label 3: 
+Katharine Doucet
+Brookside Cabin, bed 11
+Total weekly fees owing: 735.0
+

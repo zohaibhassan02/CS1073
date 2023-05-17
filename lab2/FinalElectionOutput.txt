@@ -1,0 +1,24 @@
+Candidate 1:
+Name: Mary Brown
+Number of Votes: 160
+Party: Conservative Party
+Campaign Slogan: Vote for tomorrow
+
+Candidate 2:
+Name: Wendy Thomas
+Number of Votes: 322
+Party: Green Party
+Campaign Slogan: The choice for change
+
+Candidate 3:
+Name: Ron McDonald
+Number of Votes: 271
+Party: Liberal Party
+Campaign Slogan: New Vision, New Direction
+
+Candidate 4:
+Name: Tim Bush
+Number of Votes: 0
+Party: Democratic Party
+Campaign Slogan: The right man with the right experience
+

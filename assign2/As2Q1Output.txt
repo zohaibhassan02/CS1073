@@ -1,0 +1,15 @@
+Dog 1:
+Name: Tom
+Age in dog years: 3
+Age in person years: 21
+
+Dog 2:
+Name: Duke
+Age in dog years: 6
+Age in person years: 42
+
+Dog 3:
+Name: Milo
+Age in dog years: 8
+Age in person years: 56
+
